@@ -23,4 +23,4 @@ export var TestAngular2Module = (function () {
     TestAngular2Module.ctorParameters = function () { return []; };
     return TestAngular2Module;
 }());
-//# sourceMappingURL=/home/dgomezs/workspace/project-eutychia/test-angular-2-module/test-angular2.module.js.map
+//# sourceMappingURL=/tmp/pe/test-angular-2-module/test-angular2.module.js.map

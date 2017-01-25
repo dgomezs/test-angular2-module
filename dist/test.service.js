@@ -19,4 +19,4 @@ export var TestService = (function () {
     TestService.ctorParameters = function () { return []; };
     return TestService;
 }());
-//# sourceMappingURL=/home/dgomezs/workspace/project-eutychia/test-angular-2-module/test.service.js.map
+//# sourceMappingURL=/tmp/pe/test-angular-2-module/test.service.js.map

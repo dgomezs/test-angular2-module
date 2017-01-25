@@ -6,9 +6,11 @@
     "experimentalDecorators": true,
     "sourceMap": true,
     "declaration": true,
-    "lib": ["es6", "dom"],
-    "mapRoot": "./",
-    "module": "es6",
+    "lib": [
+      "es2015",
+      "dom"
+    ],    "mapRoot": "./",
+    "module": "es2015",
     "moduleResolution": "node",
     "rootDir": "src",
     "outDir": "dist",
@@ -20,10 +22,9 @@
     "src/index.ts"
   ],
   "exclude": [
-    "dist",
-    "aot"
+    "dist"
   ],
   "angularCompilerOptions": {
-    "skipTemplateCodegen": true
+    "skipTemplateCodegen": false
   }
 }
