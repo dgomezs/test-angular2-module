@@ -4,6 +4,8 @@
   "files": [
     "dist"
   ],
+  "module": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "repository": {},
   "license": "MIT",
   "scripts": {
@@ -12,8 +14,6 @@
     "publish": "gulp build"
   },
   "private": true,
-  "module": "dist/index.js",
-  "typings": "dist/index.d.ts",
   "dependencies": {
     "@angular/common": "2.3.1",
     "@angular/compiler": "2.3.1",
